@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.8a935685.chunk.css",
-    "main.js": "./static/js/main.e49ff243.chunk.js",
-    "main.js.map": "./static/js/main.e49ff243.chunk.js.map",
-    "runtime~main.js": "./static/js/runtime~main.50426754.js",
-    "runtime~main.js.map": "./static/js/runtime~main.50426754.js.map",
-    "static/js/2.6a465692.chunk.js": "./static/js/2.6a465692.chunk.js",
-    "static/js/2.6a465692.chunk.js.map": "./static/js/2.6a465692.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.c1e158270946e6d1104defa537e4cf11.js": "./precache-manifest.c1e158270946e6d1104defa537e4cf11.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/main.8a935685.chunk.css.map": "./static/css/main.8a935685.chunk.css.map"
+    "main.css": "/tic-tac-toe-tutorial/static/css/main.8a935685.chunk.css",
+    "main.js": "/tic-tac-toe-tutorial/static/js/main.e49ff243.chunk.js",
+    "main.js.map": "/tic-tac-toe-tutorial/static/js/main.e49ff243.chunk.js.map",
+    "runtime~main.js": "/tic-tac-toe-tutorial/static/js/runtime~main.7d7e2d16.js",
+    "runtime~main.js.map": "/tic-tac-toe-tutorial/static/js/runtime~main.7d7e2d16.js.map",
+    "static/js/2.6a465692.chunk.js": "/tic-tac-toe-tutorial/static/js/2.6a465692.chunk.js",
+    "static/js/2.6a465692.chunk.js.map": "/tic-tac-toe-tutorial/static/js/2.6a465692.chunk.js.map",
+    "index.html": "/tic-tac-toe-tutorial/index.html",
+    "precache-manifest.1c3ce0684c4fafc0273145f738fa70a3.js": "/tic-tac-toe-tutorial/precache-manifest.1c3ce0684c4fafc0273145f738fa70a3.js",
+    "service-worker.js": "/tic-tac-toe-tutorial/service-worker.js",
+    "static/css/main.8a935685.chunk.css.map": "/tic-tac-toe-tutorial/static/css/main.8a935685.chunk.css.map"
   }
 }
