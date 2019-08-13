@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
+package-lock.json
 
 # testing
 /coverage
@@ -24,8 +25,6 @@ yarn-error.log*
 
 # MacOS
 .DS_Store
-
-package-lock.json
 
 
 # Logs
