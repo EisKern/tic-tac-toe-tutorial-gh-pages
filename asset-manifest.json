@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tic-tac-toe-tutorial/static/css/main.8a935685.chunk.css",
-    "main.js": "/tic-tac-toe-tutorial/static/js/main.549fb610.chunk.js",
-    "main.js.map": "/tic-tac-toe-tutorial/static/js/main.549fb610.chunk.js.map",
-    "runtime~main.js": "/tic-tac-toe-tutorial/static/js/runtime~main.7d7e2d16.js",
-    "runtime~main.js.map": "/tic-tac-toe-tutorial/static/js/runtime~main.7d7e2d16.js.map",
-    "static/js/2.6a465692.chunk.js": "/tic-tac-toe-tutorial/static/js/2.6a465692.chunk.js",
-    "static/js/2.6a465692.chunk.js.map": "/tic-tac-toe-tutorial/static/js/2.6a465692.chunk.js.map",
-    "index.html": "/tic-tac-toe-tutorial/index.html",
-    "precache-manifest.155cadb099ce2c5adfc274eb3177ce13.js": "/tic-tac-toe-tutorial/precache-manifest.155cadb099ce2c5adfc274eb3177ce13.js",
-    "service-worker.js": "/tic-tac-toe-tutorial/service-worker.js",
-    "static/css/main.8a935685.chunk.css.map": "/tic-tac-toe-tutorial/static/css/main.8a935685.chunk.css.map"
+    "main.css": "/tic-tac-toe-tutorial-gh-pages/static/css/main.8a935685.chunk.css",
+    "main.js": "/tic-tac-toe-tutorial-gh-pages/static/js/main.549fb610.chunk.js",
+    "main.js.map": "/tic-tac-toe-tutorial-gh-pages/static/js/main.549fb610.chunk.js.map",
+    "runtime~main.js": "/tic-tac-toe-tutorial-gh-pages/static/js/runtime~main.0e043dc2.js",
+    "runtime~main.js.map": "/tic-tac-toe-tutorial-gh-pages/static/js/runtime~main.0e043dc2.js.map",
+    "static/js/2.6a465692.chunk.js": "/tic-tac-toe-tutorial-gh-pages/static/js/2.6a465692.chunk.js",
+    "static/js/2.6a465692.chunk.js.map": "/tic-tac-toe-tutorial-gh-pages/static/js/2.6a465692.chunk.js.map",
+    "index.html": "/tic-tac-toe-tutorial-gh-pages/index.html",
+    "precache-manifest.140eec18a04259a04a2512a970a2aaa2.js": "/tic-tac-toe-tutorial-gh-pages/precache-manifest.140eec18a04259a04a2512a970a2aaa2.js",
+    "service-worker.js": "/tic-tac-toe-tutorial-gh-pages/service-worker.js",
+    "static/css/main.8a935685.chunk.css.map": "/tic-tac-toe-tutorial-gh-pages/static/css/main.8a935685.chunk.css.map"
   }
 }
